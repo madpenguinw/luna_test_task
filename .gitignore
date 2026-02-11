@@ -6,3 +6,7 @@ venv/
 *.egg-info/
 .mypy_cache/
 .pytest_cache/
+.reports/
+.ruff_cache
+.coverage
+.DS_Store

@@ -137,3 +137,7 @@ make test
 ```
 
 Runs pytest with coverage report. Minimum coverage threshold: 70%.
+
+## Contact
+Feel free to reach out if you have any questions or feedback regarding this task:
+* Telegram: [@lmikhailsokolovl](https://t.me/lmikhailsokolovl)
